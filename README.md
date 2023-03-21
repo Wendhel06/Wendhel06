@@ -2,8 +2,8 @@
 
 ## Sou uma pessoa muito curiosa, que escrevendo código se encontrou na vida!
 
-- 🇧🇷 Tenho 28 anos, possuo 2 anos de experiência com desenvolvimento front-end.
-- 🇧🇷 Continuo firme nos estudos, e sempre atrás de aprender novas tecnologias. 
+- Tenho 28 anos, possuo 2 anos de experiência com desenvolvimento front-end.
+- Continuo firme nos estudos, e sempre atrás de aprender novas tecnologias.
 
 ### My networks:
 
