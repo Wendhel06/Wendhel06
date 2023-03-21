@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](<i class="devicon-react-original-wordmark colored"></i>)
+(<i class="devicon-react-original-wordmark colored"></i>)
 
 
 
