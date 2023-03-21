@@ -5,9 +5,6 @@
 - Tenho 28 anos, possuo 2 anos de experiência com desenvolvimento front-end.
 - Continuo firme nos estudos, e sempre atrás de aprender novas tecnologias.
 
-##Linkedin
-[<img align="left" alt="wendhelnogueira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 <div style="display: flex">
