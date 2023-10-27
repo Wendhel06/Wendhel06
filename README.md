@@ -2,7 +2,7 @@
 
 ## Escrevendo código me encontrei na vida!
 
-- Tenho 28 anos, possuo 2 anos de experiência com desenvolvimento front-end.
+- Tenho 29 anos, possuo 2 anos de experiência com desenvolvimento front-end.
 - Continuo firme nos estudos, e sempre atrás de aprender novas tecnologias.
 
 <br />
