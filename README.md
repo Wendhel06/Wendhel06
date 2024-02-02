@@ -1,9 +1,9 @@
-### Olá, Eu sou o [Wendhel][website] 🤓
+### Helo, I'm [Wendhel][website] 🤓
 
-## Escrevendo código me encontrei na vida!
+## Writting code found myself in life!
 
-- Tenho 29 anos, possuo 3 anos de experiência com desenvolvimento front-end.
-- Continuo firme nos estudos, e sempre atrás de aprender novas tecnologias.
+- I'm 29 years old, I have 3 years of experience with front-end development.
+- I remain firm in my studies, and always looking to learn new technologies.
 
 <br />
 
