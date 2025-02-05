@@ -2,7 +2,7 @@
 
 ## Writting code found myself in life!
 
-- I'm 29 years old, I have 3 years of experience with front-end development.
+- I'm 30 years old, I have 4 years of experience with front-end fullstack.
 - I remain firm in my studies, and always looking to learn new technologies.
 
 <br />
